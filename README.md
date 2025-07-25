@@ -62,3 +62,7 @@ Explanation: The average purchase value for items like Furniture and Electronics
 younger age groups contributed the most to revenue, Credit Card and PayPal were the preferred payment methods for high-value purchases, and seasonality strongly influenced category-wise sales. These findings are crucial for optimizing marketing strategies, inventory planning, and customer retention.
 ## Contributing
 Contributions to this project are welcome! If you have ideas for improvements or additional insights, please open an issue or a pull request. Your contributions will be greatly appreciated.
+## 📬 Contact Information
+LinkedIn: kaushik-raghani
+
+Email: kaushikraghani23@gmail.com
